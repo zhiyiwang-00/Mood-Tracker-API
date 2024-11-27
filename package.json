@@ -1,5 +1,5 @@
 {
-  "name": "noroff-assignments-api",
+  "name": "assignments-api",
   "version": "1.0.0",
   "description": "## Special thanks to Typicode for json-server",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dewald-els/noroff-assignment-api.git"
+    "url": "git+https://github.com"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dewald-els/noroff-assignment-api/issues"
+    "url": "https://github.com"
   },
-  "homepage": "https://github.com/dewald-els/noroff-assignment-api#readme",
+  "homepage": "https://github.com",
   "dependencies": {
     "dotenv": "^10.0.0",
     "json-server": "^0.16.3"

@@ -1,16 +1,15 @@
-# Lost In Translation
+# Mood Tracker
 
 ## Open Endpoints
 Open endpoints do not require authentication.
 
-### Lost in Translation Users `GET /translations`
+<!-- ### Lost in Translation Users `GET /translations`
 #### Sample Response
 ```json
 [
   {
     "id": 1,
-    "username": "dewaldels",
-    "translations": []
+    "username": ""
   }
 ]
 ```
@@ -111,4 +110,4 @@ fetch(`${apiURL}/translations/${userId}`, {
     })
     .catch(error => {
     })
-```
+``` -->
