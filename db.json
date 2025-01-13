@@ -1,13 +1,11 @@
 {
-
-"affirmation_users": [
+  "affirmation_users": [
     {
       "id": 1,
       "username": "Dean",
-      "affirmations": [
-        
-      ]
-    }],
+      "affirmations": []
+    }
+  ],
   "moods": [
     {
       "id": 1,
@@ -82,13 +80,11 @@
       "category": "Negative"
     }
   ],
-    "shelf_help_users": [
+  "shelf_help_users": [
     {
       "id": 1,
       "username": "Dean",
-      "collection": [
-        
-      ]
+      "collection": []
     }
   ],
   "shelf_help_books": [
@@ -183,10 +179,4 @@
       "blurb": "Are you too good at spotting dealbreakers? Love Blind shows you how to blissfully ignore red flags and dive headfirst into questionable relationships. Packed with tips for rationalizing bad behavior, this book is a must-read for the romantically reckless."
     }
   ]
-
-
-
-
-
-  
 }
